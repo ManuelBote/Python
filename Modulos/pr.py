@@ -17,3 +17,4 @@ mymin = minimize(minimo, 0, method='BFGS')
 print(mymin)
 
 
+
