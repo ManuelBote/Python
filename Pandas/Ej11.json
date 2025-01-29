@@ -1,0 +1,191 @@
+{
+    "enero": {
+      "1": {
+        "alumnos": 5,
+        "alumnas": 3,
+        "profesores": 2,
+        "profesoras": 1
+      },
+      "2": {
+        "alumnos": 4,
+        "alumnas": 2,
+        "profesores": 1,
+        "profesoras": 0
+      },
+      "3": {
+        "alumnos": 6,
+        "alumnas": 4,
+        "profesores": 3,
+        "profesoras": 2
+      },
+      "4": {
+        "alumnos": 3,
+        "alumnas": 1,
+        "profesores": 1,
+        "profesoras": 0
+      },
+      "5": {
+        "alumnos": 2,
+        "alumnas": 1,
+        "profesores": 0,
+        "profesoras": 1
+      },
+      "6": {
+        "alumnos": 7,
+        "alumnas": 5,
+        "profesores": 2,
+        "profesoras": 1
+      },
+      "7": {
+        "alumnos": 3,
+        "alumnas": 2,
+        "profesores": 1,
+        "profesoras": 1
+      },
+      "8": {
+        "alumnos": 4,
+        "alumnas": 3,
+        "profesores": 2,
+        "profesoras": 0
+      },
+      "9": {
+        "alumnos": 5,
+        "alumnas": 4,
+        "profesores": 1,
+        "profesoras": 1
+      },
+      "10": {
+        "alumnos": 6,
+        "alumnas": 2,
+        "profesores": 3,
+        "profesoras": 1
+      },
+      "11": {
+        "alumnos": 2,
+        "alumnas": 3,
+        "profesores": 2,
+        "profesoras": 1
+      },
+      "12": {
+        "alumnos": 1,
+        "alumnas": 0,
+        "profesores": 1,
+        "profesoras": 0
+      },
+      "13": {
+        "alumnos": 0,
+        "alumnas": 1,
+        "profesores": 0,
+        "profesoras": 0
+      },
+      "14": {
+        "alumnos": 5,
+        "alumnas": 3,
+        "profesores": 2,
+        "profesoras": 1
+      },
+      "15": {
+        "alumnos": 4,
+        "alumnas": 4,
+        "profesores": 1,
+        "profesoras": 2
+      },
+      "16": {
+        "alumnos": 3,
+        "alumnas": 5,
+        "profesores": 0,
+        "profesoras": 2
+      },
+      "17": {
+        "alumnos": 4,
+        "alumnas": 2,
+        "profesores": 1,
+        "profesoras": 1
+      },
+      "18": {
+        "alumnos": 6,
+        "alumnas": 3,
+        "profesores": 2,
+        "profesoras": 0
+      },
+      "19": {
+        "alumnos": 2,
+        "alumnas": 1,
+        "profesores": 1,
+        "profesoras": 1
+      },
+      "20": {
+        "alumnos": 5,
+        "alumnas": 4,
+        "profesores": 3,
+        "profesoras": 1
+      },
+      "21": {
+        "alumnos": 3,
+        "alumnas": 2,
+        "profesores": 1,
+        "profesoras": 2
+      },
+      "22": {
+        "alumnos": 4,
+        "alumnas": 3,
+        "profesores": 0,
+        "profesoras": 1
+      },
+      "23": {
+        "alumnos": 2,
+        "alumnas": 1,
+        "profesores": 2,
+        "profesoras": 0
+      },
+      "24": {
+        "alumnos": 3,
+        "alumnas": 4,
+        "profesores": 1,
+        "profesoras": 2
+      },
+      "25": {
+        "alumnos": 4,
+        "alumnas": 2,
+        "profesores": 1,
+        "profesoras": 1
+      },
+      "26": {
+        "alumnos": 3,
+        "alumnas": 3,
+        "profesores": 2,
+        "profesoras": 1
+      },
+      "27": {
+        "alumnos": 4,
+        "alumnas": 1,
+        "profesores": 3,
+        "profesoras": 1
+      },
+      "28": {
+        "alumnos": 5,
+        "alumnas": 2,
+        "profesores": 2,
+        "profesoras": 2
+      },
+      "29": {
+        "alumnos": 6,
+        "alumnas": 3,
+        "profesores": 1,
+        "profesoras": 0
+      },
+      "30": {
+        "alumnos": 2,
+        "alumnas": 4,
+        "profesores": 0,
+        "profesoras": 1
+      },
+      "31": {
+        "alumnos": 3,
+        "alumnas": 2,
+        "profesores": 1,
+        "profesoras": 1
+      }
+    }
+  }
+  

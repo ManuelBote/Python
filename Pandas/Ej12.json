@@ -1,0 +1,405 @@
+{
+    "personas": [
+      {
+        "id": 1,
+        "peso": 70,
+        "altura": 1.75,
+        "imc": 22.86,
+        "igc": 22,
+        "grupo_sanguineo": "A+"
+      },
+      {
+        "id": 2,
+        "peso": 85,
+        "altura": 1.80,
+        "imc": 26.23,
+        "igc": 24,
+        "grupo_sanguineo": "O-"
+      },
+      {
+        "id": 3,
+        "peso": 60,
+        "altura": 1.60,
+        "imc": 23.44,
+        "igc": 20,
+        "grupo_sanguineo": "B+"
+      },
+      {
+        "id": 4,
+        "peso": 90,
+        "altura": 1.85,
+        "imc": 26.30,
+        "igc": 25,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 5,
+        "peso": 75,
+        "altura": 1.70,
+        "imc": 25.95,
+        "igc": 22,
+        "grupo_sanguineo": "O+"
+      },
+      {
+        "id": 6,
+        "peso": 68,
+        "altura": 1.78,
+        "imc": 21.44,
+        "igc": 21,
+        "grupo_sanguineo": "A-"
+      },
+      {
+        "id": 7,
+        "peso": 80,
+        "altura": 1.82,
+        "imc": 24.18,
+        "igc": 23,
+        "grupo_sanguineo": "B-"
+      },
+      {
+        "id": 8,
+        "peso": 65,
+        "altura": 1.68,
+        "imc": 23.04,
+        "igc": 19,
+        "grupo_sanguineo": "AB-"
+      },
+      {
+        "id": 9,
+        "peso": 95,
+        "altura": 1.88,
+        "imc": 26.87,
+        "igc": 28,
+        "grupo_sanguineo": "A+"
+      },
+      {
+        "id": 10,
+        "peso": 77,
+        "altura": 1.72,
+        "imc": 26.08,
+        "igc": 22,
+        "grupo_sanguineo": "O-"
+      },
+      {
+        "id": 11,
+        "peso": 82,
+        "altura": 1.80,
+        "imc": 25.31,
+        "igc": 24,
+        "grupo_sanguineo": "B+"
+      },
+      {
+        "id": 12,
+        "peso": 64,
+        "altura": 1.65,
+        "imc": 23.51,
+        "igc": 21,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 13,
+        "peso": 89,
+        "altura": 1.90,
+        "imc": 24.64,
+        "igc": 25,
+        "grupo_sanguineo": "A-"
+      },
+      {
+        "id": 14,
+        "peso": 71,
+        "altura": 1.74,
+        "imc": 23.43,
+        "igc": 22,
+        "grupo_sanguineo": "O+"
+      },
+      {
+        "id": 15,
+        "peso": 88,
+        "altura": 1.85,
+        "imc": 25.74,
+        "igc": 27,
+        "grupo_sanguineo": "B-"
+      },
+      {
+        "id": 16,
+        "peso": 70,
+        "altura": 1.70,
+        "imc": 24.22,
+        "igc": 20,
+        "grupo_sanguineo": "AB-"
+      },
+      {
+        "id": 17,
+        "peso": 60,
+        "altura": 1.60,
+        "imc": 23.44,
+        "igc": 20,
+        "grupo_sanguineo": "A+"
+      },
+      {
+        "id": 18,
+        "peso": 95,
+        "altura": 1.87,
+        "imc": 27.14,
+        "igc": 26,
+        "grupo_sanguineo": "O-"
+      },
+      {
+        "id": 19,
+        "peso": 85,
+        "altura": 1.80,
+        "imc": 26.23,
+        "igc": 25,
+        "grupo_sanguineo": "B+"
+      },
+      {
+        "id": 20,
+        "peso": 78,
+        "altura": 1.75,
+        "imc": 25.46,
+        "igc": 23,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 21,
+        "peso": 74,
+        "altura": 1.73,
+        "imc": 24.63,
+        "igc": 22,
+        "grupo_sanguineo": "A-"
+      },
+      {
+        "id": 22,
+        "peso": 80,
+        "altura": 1.77,
+        "imc": 25.47,
+        "igc": 24,
+        "grupo_sanguineo": "O+"
+      },
+      {
+        "id": 23,
+        "peso": 93,
+        "altura": 1.89,
+        "imc": 26.09,
+        "igc": 26,
+        "grupo_sanguineo": "B-"
+      },
+      {
+        "id": 24,
+        "peso": 69,
+        "altura": 1.71,
+        "imc": 23.63,
+        "igc": 20,
+        "grupo_sanguineo": "AB-"
+      },
+      {
+        "id": 25,
+        "peso": 81,
+        "altura": 1.76,
+        "imc": 26.14,
+        "igc": 23,
+        "grupo_sanguineo": "A+"
+      },
+      {
+        "id": 26,
+        "peso": 87,
+        "altura": 1.82,
+        "imc": 26.23,
+        "igc": 25,
+        "grupo_sanguineo": "O-"
+      },
+      {
+        "id": 27,
+        "peso": 92,
+        "altura": 1.88,
+        "imc": 26.06,
+        "igc": 28,
+        "grupo_sanguineo": "B+"
+      },
+      {
+        "id": 28,
+        "peso": 73,
+        "altura": 1.72,
+        "imc": 24.73,
+        "igc": 22,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 29,
+        "peso": 69,
+        "altura": 1.68,
+        "imc": 24.47,
+        "igc": 20,
+        "grupo_sanguineo": "A-"
+      },
+      {
+        "id": 30,
+        "peso": 84,
+        "altura": 1.80,
+        "imc": 25.95,
+        "igc": 24,
+        "grupo_sanguineo": "O+"
+      },
+      {
+        "id": 31,
+        "peso": 67,
+        "altura": 1.74,
+        "imc": 22.08,
+        "igc": 21,
+        "grupo_sanguineo": "B-"
+      },
+      {
+        "id": 32,
+        "peso": 79,
+        "altura": 1.78,
+        "imc": 24.91,
+        "igc": 22,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 33,
+        "peso": 85,
+        "altura": 1.82,
+        "imc": 25.66,
+        "igc": 23,
+        "grupo_sanguineo": "A+"
+      },
+      {
+        "id": 34,
+        "peso": 72,
+        "altura": 1.70,
+        "imc": 24.91,
+        "igc": 21,
+        "grupo_sanguineo": "O-"
+      },
+      {
+        "id": 35,
+        "peso": 89,
+        "altura": 1.88,
+        "imc": 25.20,
+        "igc": 26,
+        "grupo_sanguineo": "B+"
+      },
+      {
+        "id": 36,
+        "peso": 81,
+        "altura": 1.75,
+        "imc": 26.49,
+        "igc": 23,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 37,
+        "peso": 75,
+        "altura": 1.80,
+        "imc": 23.15,
+        "igc": 21,
+        "grupo_sanguineo": "A-"
+      },
+      {
+        "id": 38,
+        "peso": 83,
+        "altura": 1.79,
+        "imc": 25.88,
+        "igc": 24,
+        "grupo_sanguineo": "O+"
+      },
+      {
+        "id": 39,
+        "peso": 91,
+        "altura": 1.85,
+        "imc": 26.69,
+        "igc": 27,
+        "grupo_sanguineo": "B-"
+      },
+      {
+        "id": 40,
+        "peso": 77,
+        "altura": 1.76,
+        "imc": 24.81,
+        "igc": 22,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 41,
+        "peso": 72,
+        "altura": 1.70,
+        "imc": 24.91,
+        "igc": 20,
+        "grupo_sanguineo": "A+"
+      },
+      {
+        "id": 42,
+        "peso": 84,
+        "altura": 1.81,
+        "imc": 25.58,
+        "igc": 23,
+        "grupo_sanguineo": "O-"
+      },
+      {
+        "id": 43,
+        "peso": 78,
+        "altura": 1.74,
+        "imc": 25.73,
+        "igc": 21,
+        "grupo_sanguineo": "B+"
+      },
+      {
+        "id": 44,
+        "peso": 85,
+        "altura": 1.82,
+        "imc": 25.66,
+        "igc": 23,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 45,
+        "peso": 80,
+        "altura": 1.79,
+        "imc": 25.06,
+        "igc": 22,
+        "grupo_sanguineo": "A-"
+      },
+      {
+        "id": 46,
+        "peso": 93,
+        "altura": 1.90,
+        "imc": 25.75,
+        "igc": 26,
+        "grupo_sanguineo": "O+"
+      },
+      {
+        "id": 47,
+        "peso": 69,
+        "altura": 1.71,
+        "imc": 23.58,
+        "igc": 21,
+        "grupo_sanguineo": "B-"
+      },
+      {
+        "id": 48,
+        "peso": 84,
+        "altura": 1.78,
+        "imc": 26.55,
+        "igc": 23,
+        "grupo_sanguineo": "AB+"
+      },
+      {
+        "id": 49,
+        "peso": 77,
+        "altura": 1.75,
+        "imc": 25.14,
+        "igc": 22,
+        "grupo_sanguineo": "A+"
+      },
+      {
+        "id": 50,
+        "peso": 95,
+        "altura": 1.85,
+        "imc": 27.83,
+        "igc": 28,
+        "grupo_sanguineo": "O-"
+      }
+    ]
+  }
+  
