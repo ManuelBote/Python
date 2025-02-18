@@ -10,3 +10,4 @@ meses = np.array([1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1])
 print(csr_matrix(meses))
 print(csr_matrix(meses).count_nonzero())
 print(csr_matrix(meses).data)
+
