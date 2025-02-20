@@ -8,8 +8,54 @@
 # potencia, etc.) y fuerzas (kilogramos fuerza, libras fuerza, etc.). Para acceder
 # a cada una de las constantes emplea el módulo SciPy.
 
-import numpy as np
-import scipy.constants as sc
+import scipy.constants as cs
 
-print("El valor pi es:", np.pi)
-print("En un kilobyte se almacenan:", sc.kibi, "bytes")
+texto = f"""
+Prefijos:
+- kilo: {cs.kilo} (1000)
+
+Prefijos binarios:
+- kB (kilobyte): {cs.kibi} bytes
+- MB (megabyte): {cs.mebi} bytes
+- GB (gigabyte): {cs.gibi} bytes
+
+Masas:
+- gramo: {cs.gram} gramos
+- libra: {cs.lb} libras
+
+Ángulos:
+- grado: {cs.degree} grados
+- arcominuto: {cs.arcminute} arcominutos
+
+Tiempos:
+- minuto: {cs.minute} minutos
+
+Longitudes:
+- yarda: {cs.yard} yardas
+- milla: {cs.mile} millas
+
+Presiones:
+- atmósfera: {cs.atm} atmósferas
+- bar: {cs.bar} bares
+
+Áreas:
+- hectárea: {cs.hectare} hectáreas
+- acre: {cs.acre} acres
+
+Volúmenes:
+- litro: {cs.liter} litros
+- galón: {cs.gallon} galones
+
+Energías:
+- caloría: {cs.calorie} calorías
+- ergio: {cs.erg} ergios
+
+Potencias:
+- caballo de potencia: {cs.horsepower} caballos de potencia
+
+Fuerzas:
+- kilogramo fuerza: {cs.kgf} kilogramos fuerza
+- libra fuerza: {cs.lbf} libras fuerza
+"""
+
+print(texto)

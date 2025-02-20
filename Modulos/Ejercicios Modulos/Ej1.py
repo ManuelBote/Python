@@ -7,8 +7,9 @@ import numpy as np
 array1 = np.array([42,44,46,48,50])
 print(array1)
 
-array2 = np.array([[510,520,530],[540,550,560],[570,580,590]])
+array2 = np.array([[[510,520],[540,550]],[[570,580],[590,600]]])
 print(array2.ndim)
 
 array3 = np.array([1,2,3], ndmin=8 )
+print(array3)
 print(array3.ndim)
