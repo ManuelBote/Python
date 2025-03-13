@@ -31,6 +31,9 @@ num2 = np.array([[[2,4,6,8,10],[12,14,16,18,20]],[[22,24,26,28,30],[32,34,36,38,
 
 for i in num2:
     for j in i:
+        cont = 1
         for k in j:
-            print(k, end=" ")
+            if cont == 1:
+                print(k, end=" ")
+            cont += 1
         print()

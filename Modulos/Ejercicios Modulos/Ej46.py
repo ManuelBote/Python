@@ -6,9 +6,9 @@
 
 import numpy as np
 
-colores = np.array(["rojo", "azul", "verde", "amarillo", "naranja", "rojo", "azul", "verde", "amarillo", "naranja", "rojo", "azul", "verde", "amarillo", "naranja", "rojo", "azul", "verde", "amarillo", "naranja"])
+colores = np.array(["rojo", "azul", "verde", "rosa", "naranja", "rojo", "naranja", "verde", "azul", "azul", "negro", "negro", "morado", "rojo", "rosa", "rojo", "azul", "verde", "blanco", "marron"])
 
-colores2 = np.array(["rojo", "azul", "verde", "amarillo", "naranja", "rojo", "azul", "verde", "amarillo", "naranja", "rojo", "azul", "verde", "amarillo", "naranja", "rojo", "azul", "verde", "amarillo", "naranja"])
+colores2 = np.array(["marron", "celeste", "verde", "blanco", "blanco", "rojo", "verde", "verde", "amarillo", "negro", "morado", "azul", "verde", "amarillo", "rojo", "rojo", "azul", "verde", "amarillo", "magenta"])
 
 conjunto = np.concatenate((colores, colores2))
 conjunto2 = np.unique(conjunto)
