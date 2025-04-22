@@ -5,9 +5,6 @@
 # una rejilla horizontal para apreciar de una mejor manera en qué momento de
 # la tarde los valores de lluvia comienzan a ser anormales.
 
-import matplotlib.pyplot as plt
-import numpy as np
-
 import numpy as np
 import matplotlib.pyplot as plt
 
